@@ -1,0 +1,15 @@
+.hero {
+  background-color: aqua;
+  background-image: url(/img/vite-logo.png);
+}
+.hero .container {
+  background-color: yellow;
+  max-width: 150px;
+  min-width: 30px;
+  text-align: center;
+}
+
+.title-hero {
+  font-size: 30px;
+  color: red;
+}
